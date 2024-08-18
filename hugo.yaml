@@ -23,10 +23,10 @@ params:
     enabled: true
     title: "Welcome 👋" # optional default will be site title
     subtitle: "To my professional site"
-    imageUrl: "<image link>" # optional
+    imageUrl: "/profile.jpg" # optional
     imageTitle: "Ryan Randall headshot" # optional
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 150
+    imageHeight: 150
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/kocobee"
