@@ -1,0 +1,25 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "Ryan Randall"
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/posts/"
+      weight: 1
+    - name: "Projects"
+      url: "/projects/"
+      weight: 1
+    - name: "Talks"
+      url: "/talks/"
+      weight: 1
+
+socialIcons:
+  - name: "kofi"
+    url: "https://kofi.com"
+  - name: "x"
+    url: "https://x.com"
