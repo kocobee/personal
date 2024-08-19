@@ -1,32 +1,37 @@
 baseURL: "https://example.org/"
 languageCode: "en-us"
 title: "Ryan Randall"
+description: "My description"
 theme: "PaperMod"
 
 menu:
   main:
+    - name: "Home"
+      url: "/"
+      weight: 1
     - name: "About"
       url: "/about/"
-      weight: 1
+      weight: 2
     - name: "Blog"
       url: "/posts/"
-      weight: 1
+      weight: 3
     - name: "Projects"
       url: "/projects/"
-      weight: 1
+      weight: 4
     - name: "Talks"
       url: "/talks/"
-      weight: 1
+      weight: 5
 
 params:
+  env: production
   profileMode:
     enabled: true
-    title: "Welcome 👋" # optional default will be site title
-    subtitle: "To my professional site"
+    title: "Hey, I'm Ryan 👋" # optional default will be site title
+    subtitle: "Welcome to my professional site"
     imageUrl: "/profile.jpg" # optional
     imageTitle: "Ryan Randall headshot" # optional
-    imageWidth: 150
-    imageHeight: 150
+    imageWidth: 200
+    imageHeight: 200
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/kocobee"
@@ -35,5 +40,5 @@ params:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ryan-r-458363248/"
     - name: "email"
-      url: "https://x.com/kocobee_"
+      url: "mailto:ryan.randall.b@gmail.com"
 
