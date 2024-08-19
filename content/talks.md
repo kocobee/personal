@@ -1,5 +1,5 @@
 ---
-title: "Technical Talks"
+title: "Tech Talks"
 draft: false
 ---
 
