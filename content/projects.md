@@ -9,7 +9,7 @@ draft: false
 - [llmcalc.com](https://www.llmcalc.com) - LLM cost calculator/comparison tool
 
 ## 2023
-- [forage.domains](https://www.forage.domains) - Find the perfect domain name using AI
+- forage domains - Find the perfect domain name using AI
 
 ## Older
 - [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) - An open source library for rendering LaTeX in HTML5's canvas
